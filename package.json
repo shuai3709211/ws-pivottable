@@ -7,16 +7,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Seungwoo321/vue-pivottable.git"
+    "url": "https://github.com/shuai3709211/ws-pivottable.git"
   },
   "keywords": [
     "vue",
     "pivot",
-    "pivottable",
-    "vue-pivottable"
+    "pivottable"
   ],
-  "homepage": "https://seungwoo321.github.io/opensource/vue-pivottable.html",
-  "author": "Seungwoo, Lee <seungwoo321@gmail.com> (https://github.com/seungwoo321)",
   "license": "MIT",
   "scripts": {
     "build": "vue-cli-service build --target lib --name vue-pivottable src/index.js",
